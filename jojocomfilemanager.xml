@@ -1,0 +1,24 @@
+<description>
+	<name>
+		<name creatorname="Samuel Quansah" othernames="None">
+			<service>
+				<service name="GitHub">
+					<service License="MIT License">
+					<service License="Apache">
+					<service License="Other">
+					<service License="None">
+				</service>
+			</service>
+		</service>
+	</name>
+</name>
+</description>
+<info>
+	<updateinfo Time="Last Updated: May 29th 2018 11:46PM EST">
+		<updateinfo Contributers="Samuel Quansah">
+		<updateinfo Contributers="GitHub">
+	</updateinfo>
+   </updateinfo>
+  </updateinfo>
+</info>
+
