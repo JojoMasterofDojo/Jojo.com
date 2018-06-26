@@ -6,6 +6,6 @@
   <ul>
     <li> coon.html - Landing Page of the website </li>
     <li> coon.css - CSS styling page w/ CSS animations. I learned how to use CSS animations in 30 minutes so if there is any way I can better optimize the animations please let me know. Adding -webkit- animations for Safari soon(June 25th, 2018).</li>
-    <li> Articles.html - Main news paper page for reading articles </li>
+    <li> articles.html - Main news paper page for reading articles </li>
   </ul>
 </body
